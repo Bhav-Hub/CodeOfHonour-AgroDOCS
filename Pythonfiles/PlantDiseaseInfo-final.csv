@@ -1,0 +1,34 @@
+Index,Disease Name,Display,Type,Treatment 1,Treatment 2,Treatment3
+0,Apple___Apple_scab,Apple Scab,Venturia inaequalis (Fungus),"-fungicides : captan, mancozeb, myclobutanil, and sulfur-based products",- Remove and destroy fallen leaves.,Apply a reflective mulch or a coating to tree trunks to deter overwintering fungal spores and maintain good soil drainage to prevent excess moisture around the roots
+1,Apple___Black_rot,Apple Black Rot,Botryosphaeria obtusa (Fungus),- Prune out dead branches and mummified fruits.,- Apply fungicides as buds break until harvest as needed.,- Improve air circulation with proper tree spacing.
+2,Apple___Cedar_apple_rust,Apple Cedar Rust,Gymnosporangium juniperi-virginianae (Fungus),-spray copper,- Remove alternate hosts (junipers) if feasible.,-use myclobutanil fungicide
+3,Apple___healthy,Healthy Apple,none,none,none,none
+4,Cherry_(including_sour)___healthy,Healthy Cherry,none,none,none,none
+5,Cherry_(including_sour)___Powdery_mildew,Cherry Powdery Mildew,Podosphaera spp. (Fungus),- Use sulfur or biological fungicides at first sign of disease.,- Prune for good air circulation.,- Water plants at the base to reduce high humidity around foliage.
+6,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,Maize Cercospora Grey Leaf Spot,Cercospora zeae-maydis (Fungus),-Rotate crops and till under residues.,-Apply foliar fungicides when necessary.,-apply thiophanate‑methyl products (e.g. CLEARY 3336) mancozeb products (e.g. DITHANE)and chlorothalonil products(e.g. DACONIL)
+7,Corn_(maize)___Common_rust_,Maize Common Rust,Puccinia sorghi (Fungus),- Apply fungicides if the disease is severe,"-apply mancozeb, pyraclostrobin, pyraclostrobin + metconazole, pyraclostrobin + fluxapyroxad, azoxystrobin + propiconazole, trifloxystrobin + prothioconazole",none
+8,Corn_(maize)___healthy,Healthy Maize,none,none,none,none
+9,Corn_(maize)___Northern_Leaf_Blight,Maize Northern Leaf Blight,Exserohilum turcicum (Fungus),- Rotate with non-host crops,- Till under corn residues to reduce spore carryover.,-apply fungicides
+10,Grape___Black_rot,Grape Black Rot,Guignardia bidwellii (Fungus),- Sanitation: remove mummies and infected leaves,Apply fungicides from bud break through to pre-harvest as needed.,- Promote good air flow with training systems and canopy management.
+11,Grape___Esca_(Black_Measles),Grape Black Measles,Phaeomoniella chlamydospora and Phaeoacremonium spp(Fungus),- No effective chemical treatment,- Avoid large pruning cuts and seal cuts when necessary.,- Remove severely affected vines to prevent spread.
+12,Grape___healthy,Healthy Grape,none,none,none,none
+13,Grape___Leaf_blight_(Isariopsis_Leaf_Spot),Grape Leaf Blight,Isariopsis griseola (Fungus),- Apply contact fungicides for protection during wet periods.,- Implement good canopy management.,- Remove old leaves and debris to reduce inoculum.
+14,Peach___Bacterial_spot,Peach Bacterial Spot,Xanthomonas arboricola pv. pruni (Bacterium),- Apply copper-based bactericides before bloom and after harvest.,- Reduce overhead irrigation to reduce leaf wetness.,- Thin fruit to improve air circulation.
+15,Peach___healthy,Healthy Peach,none,none,none,none
+16,"Pepper,_bell___Bacterial_spot",Pepper Bacterial Spot,Xanthomonas spp. (Bacterium),- Apply copper bactericides and protectants.,- Implement crop rotation with non-host plants,none
+17,"Pepper,_bell___healthy",Healthy Pepper,none,none,none,none
+18,Potato___Early_blight,Potato Early Blight,Alternaria solani (Fungus),-fungicides,- stop overhead irrigation to minimize leaf moisture.,- Harvest tubers after vines have died down to avoid spore contamination.
+19,Potato___healthy,Healthy Potato,none,none,none,none
+20,Potato___Late_blight,Potato Late Blight,Phytophthora infestans (Oomycete),- Apply systemic fungicides as part of a regular spray program.,- Destroy cull piles and volunteer potato plants.,- Harvest under dry conditions and cure tubers to promote healing of skin cuts.
+21,Strawberry___healthy,Healthy Strawberry,none,none,none,none
+22,Strawberry___Leaf_scorch,Strawberry Leaf Scorch,Diplocarpon earliana (Fungus),- Apply fungicides immediately,"- Renovate beds after harvest by mowing, raking, and thinning plants",-increase space between individual plants
+23,Tomato___Bacterial_spot,Tomato Bacterial Spot,Xanthomonas campestris pv. vesicatoria (Bacterium),- Implement a strict sanitation regime.,- Use fixed copper and other labeled bactericides.,- Avoid working in plants when they are wet to prevent spread.
+24,Tomato___Early_blight,Tomato Early Blight,Alternaria solani (Fungus),- Apply chlorothalonil or mancozeb at first sign and repeat at 7- to 10-day intervals.,- Stake and prune to improve air circulation.,- Mulch to prevent spores from splashing up from the soil.
+25,Tomato___healthy,Healthy Tomato,none,none,none,none
+26,Tomato___Late_blight,Tomato Late Blight,Phytophthora infestans (Oomycete),-Apply a protectant fungicide like chlorothalonil,- Destroy infected plants to prevent spore spread.,-Use row covers to protect plants from spore deposition.
+27,Tomato___Leaf_Mold,Tomato Leaf Mold,Passalora fulva (Fungus),- Increase greenhouse ventilation and reduce humidity.,- Apply fungicides such as chlorothalonil or copper-based products.,none
+28,Tomato___Septoria_leaf_spot,Tomato Septoria Leaf Spot,Septoria lycopersici (Fungus),"- Apply fungicides, such as mancozeb or copper-based products, on a regular schedule.",- Practice crop rotation with non-solanaceous crops.,- Remove diseased leaves and avoid overhead watering.
+29,Tomato___Spider_mites Two-spotted_spider_mite,Tomato Spider Mites,Tetranychus urticae (Arachnid),- Introduce predatory mites in greenhouse settings.,"- Apply miticides, ensuring coverage of the underside of leaves.",-Use insecticidal soaps and oils
+30,Tomato___Target_Spot,Tomato Target Spot,Corynespora cassiicola (Fungus),-Ensure adequate plant spacing and stake plants to improve air flow.,- Rotate with non-host crops for at least two years.,none
+31,Tomato___Tomato_mosaic_virus,Tomato Mosaic Virus,Tomato Mosaic Virus,- Remove and destroy infected plants immediately,- Disinfect tools and hands after handling infected plants.,none
+32,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato Yellow Leaf Curl,Tomato Yellow Leaf Curl Virus,-use biological control,Use reflective mulches to deter whiteflies.,-shift plants to a closed condition growth like a greenhouse or consider covering
